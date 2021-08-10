@@ -49,6 +49,9 @@
     - New therapeutics for neurology and psychiatry
     - Approaches for ground-truth unerstanding of living systems
 
+## neuroscience
+- [Susumu Tonegawa, PhD](https://tonegawalab.mit.edu/susumu-tonegawa/) ([Lab website](https://tonegawalab.mit.edu/))
+
 ## computational biology
 
 - [Ben Langmead, PhD](https://www.cs.jhu.edu/faculty/ben-langmead/) ([Lab website](https://langmead-lab.org/))
@@ -60,3 +63,15 @@
     - Text indexing
     - High performance computing
     - Big data
+
+- [Bonnie Berger, PhD](https://people.csail.mit.edu/bab/) ([Lab website](https://people.csail.mit.edu/bab/))
+  - MIT
+    - Simons Professor of Mathematics
+  - CSAIL
+    - Head of Computation and Biology Group
+  - Research interests
+    - Compressive genomics
+    - Network inference
+    - Structural bioinformatics
+    - Genomic privacy
+    - Medical genomics
