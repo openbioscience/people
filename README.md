@@ -49,6 +49,13 @@
     - New therapeutics for neurology and psychiatry
     - Approaches for ground-truth unerstanding of living systems
 
+- Kwanghun Chung ([Lab website](http://www.chunglab.org/))
+
+## biomedical engineering
+
+- [Ellen Roche](https://imes.mit.edu/people/faculty/ellen-roche/) ([Lab website](http://ttdd.mit.edu/?#))
+
+
 ## neuroscience
 - [Susumu Tonegawa, PhD](https://tonegawalab.mit.edu/susumu-tonegawa/) ([Lab website](https://tonegawalab.mit.edu/))
 
