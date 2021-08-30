@@ -51,6 +51,8 @@
 
 - Kwanghun Chung ([Lab website](http://www.chunglab.org/))
 
+- [Krystyn Van Vliet](https://kjvvgroup.mit.edu/krystyn-van-vliet/) ([Lab website](https://kjvvgroup.mit.edu/))
+
 ## biomedical engineering
 
 - [Ellen Roche](https://imes.mit.edu/people/faculty/ellen-roche/) ([Lab website](http://ttdd.mit.edu/?#))
@@ -82,3 +84,7 @@
     - Structural bioinformatics
     - Genomic privacy
     - Medical genomics
+
+## medicine
+- [Eliezer Van Allen, MD](https://vanallenlab.dana-farber.org/) ([Lab website](https://vanallenlab.dana-farber.org/))
+
